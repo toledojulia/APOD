@@ -7,6 +7,7 @@
     background-image: url(https://images4.alphacoders.com/936/thumb-1920-936378.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
  } 
 
 h1, p{
